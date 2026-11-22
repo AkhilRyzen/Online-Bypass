@@ -1,6 +1,6 @@
 {
-  "maintenance": false,
-  "enabled": true,
+  "maintenance": true,
+  "enabled": false,
   "maintenance_msg": "Server is under maintenance. Try again later.",
   "toast": "Welcome to  Mod!"
 }
